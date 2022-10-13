@@ -40,23 +40,23 @@ Titan customization is not completely gone, as players can still select three Ti
 <img src="./img/Képernyőfotó 2022-10-05 - 17.43.50.png" alt=""> 
 <img src="img/Képernyőfotó 2022-10-05 - 17.47.39.png" alt="">
 <br>
-<img src="./img/Képernyőfotó 2022-10-05 - 17.40.43.png" alt="">
-<img src="./img/Képernyőfotó 2022-10-05 - 17.45.02.png" alt=""> 
+<img src="./img/Képernyőfotó 2022-10-05 - 17.40.43.png" alt="1">
+<img src="./img/Képernyőfotó 2022-10-05 - 17.45.02.png" alt="2"> 
 
-<img src="./img/Képernyőfotó 2022-10-05 - 17.47.54.png" alt="">
+<img src="./img/Képernyőfotó 2022-10-05 - 17.47.54.png" alt="3">
 <br>
-<img src="./img/Képernyőfotó 2022-10-05 - 20.59.14.png" alt=""> 
-<img src="./img/Képernyőfotó 2022-10-05 - 21.00.26.png" alt=""> 
-<img src="./img/Képernyőfotó 2022-10-05 - 21.01.24.png" alt="">
+<img src="./img/Képernyőfotó 2022-10-05 - 20.59.14.png" alt="4"> 
+<img src="./img/Képernyőfotó 2022-10-05 - 21.00.26.png" alt="5"> 
+<img src="./img/Képernyőfotó 2022-10-05 - 21.01.24.png" alt="6">
 <br>
-<img src="./img/Képernyőfotó 2022-10-05 - 20.59.27.png" alt="" >
-<img src="./img/Képernyőfotó 2022-10-05 - 21.00.38.png" alt=""> 
-<img src="./img/Képernyőfotó 2022-10-05 - 21.01.32.png" alt="">
+<img src="./img/Képernyőfotó 2022-10-05 - 20.59.27.png" alt="7" >
+<img src="./img/Képernyőfotó 2022-10-05 - 21.00.38.png" alt="8"> 
+<img src="./img/Képernyőfotó 2022-10-05 - 21.01.32.png" alt="9">
 <br>
-<img src="img/Képernyőfotó 2022-10-05 - 21.02.04.png" alt="">
+<img src="img/Képernyőfotó 2022-10-05 - 21.02.04.png" alt="10">
 <br>
-<img src="img/Képernyőfotó 2022-10-05 - 21.02.15.png" alt="">
+<img src="img/Képernyőfotó 2022-10-05 - 21.02.15.png" alt="11">
 <br>
-<img src="./img/Képernyőfotó 2022-10-05 - 21.02.26.png" alt="">
+<img src="./img/Képernyőfotó 2022-10-05 - 21.02.26.png" alt="12">
 </body>
 </html>
