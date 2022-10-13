@@ -7,9 +7,8 @@
     <title>the best game </title>
 <style> 
 body {
-  background-image: url("./img/Titanfall-2-Key-Art-1000x600.jpeg"), url("yes.gif");
-  background-color: #cccccc;
-  background-repeat:no-repeat,repeat;
+  background-image: url("./img/Titanfall-2-Key-Art-1000x600.jpeg"), url("yes.gif")
+  background-repeat:no-repeat;
   background-size: cover;
 }
 </style>
